@@ -57,7 +57,7 @@
 <script>
 import Blurb from "./Blurb";
 import Summary from "./Summary.vue"
-const URL = "http://localhost:5000";
+const URL = "https://api.biascorrect.org/";
 export default {
     name: "Main",
     components: {
